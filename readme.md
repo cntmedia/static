@@ -1,12 +1,10 @@
-<style>
+<style type="text/css">
 .center{
 text-align:center;
 }
 .bg_light_grey{
 background-color:#dbdbdb;
-}
-
-</style>
+}</style>
 
 <div class='center'>
 <img src='images/geekwise_logo_owl_bw_small.png' alt='geekwise'>
