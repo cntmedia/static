@@ -3,8 +3,7 @@
 <img src='images/geekwise_logo_txt_bw_small.png' alt='geekwise'>
 </div>
 --
-<h1 style='
-text-align:center;
+<h1 align='center'
 background-color:#dbdbdb;'>
 Course Name
 </h1>
