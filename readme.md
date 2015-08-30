@@ -5,6 +5,11 @@
 --
 <h1 align='center' style='
 background-color:#dbdbdb;'>
-Course Name
+Static HTML5/CSS3
 </h1>
 ***
+
+### Week 1: Introduction to HTML and CSS
+> Outcome: 
+> Ability to stuturce information for preseting static infomration.
+
