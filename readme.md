@@ -20,22 +20,49 @@ Static HTML5/CSS3
 * Brackets - (Adobe & Opensource | apple/win/linux)
 
 
-# The 10 HTML tags
+# 10 HTML tags
 
-* formatting content. If you read the last tutorial, you already know how to use heading and paragraph tags, so I am going to teach you the remaining 8 HTML tags that you need. Don't worry, even though it looks like a lot of new tags to learn, they are easy to remember and they all work the same way. Here are the 10 HTML tags I am going to teach you: 
-### Week 1: Introduction to HTML and CSS
-> Outcome: 
-> Ability to stuturce information for preseting static infomration.
+### Goal:
+> Ability to stuturce information for the Internet.
 
+The outcome is to learn the basic 10 tags you will use when creating a static HTML file.
+
+ * HTML TAGS
+	- 1. `<h1> - <h6>` Heading
+	- 2. `<p>` Paragraph
+	- 3. `<b>` Bold
+	- 4. `<a>` Anchor
+	- 5. `<ul>` Unordered List
+	- 6. `<li>` List Item
+	- 7. `<ol>` Ordered List
+	- 8. `<img>` Image
+	- 9. `<html>` HTML
+	- 10.	`<body>` Body
+
+-- 
+### Demo Site:
+<http://cntmedia.github.io/static/#link_to_bottom>
+
+-- 
+
+These 10 HTML Tags will help you format and orgainze information for the Internet.
+Even though it looks like a lot to learn, they are easy to remember and they all work the same way.
 
 #Assetment 1:
 
-create google account *just* for this course
-`email name: geekwise.firstName.LastName@gmail.com`
+- 1: Setup Google Account For *just* for this course
+ - `email name: geekwise.firstName.LastName@gmail.com`
 
-login: geekwise.student@geekwise.org
-password: your@emailAddress.com
-> password will be in your email
+- 2: Login to [![your alt][typingio_logo]](http://www.typing.io)
+
+[typingio_logo]:images/typingio_logo.jpg?raw=true
+
+
+	- password will be in your email 
+
+- 3: Select The 10 Basic HTML Tags Lesson
+	- ![typing.io](images/typingio_lesson_01.jpg)
+
 
 ## Creating Clean Code
 
