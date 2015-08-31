@@ -30,7 +30,15 @@ Static HTML5/CSS3
 
 #Assetment 1:
 
-A developer and their tools.
+create google account *just* for this course
+`email name: geekwise.firstName.LastName@gmail.com`
+
+login: geekwise.student@geekwise.org
+password: your@emailAddress.com
+> password will be in your email
+
+## Creating Clean Code
+
 
 ##The Keyboard
 Our primary tool of our trade.
