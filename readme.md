@@ -41,7 +41,7 @@ The outcome is to learn the basic 10 tags you will use when creating a static HT
 
 -- 
 ### Demo Site:
-<http://cntmedia.github.io/static/#link_to_bottom>
+<http://cntmedia.github.io/static/>
 
 -- 
 
@@ -57,11 +57,13 @@ Even though it looks like a lot to learn, they are easy to remember and they all
 
 [typingio_logo]:images/typingio_logo.jpg?raw=true
 
-
 	- password will be in your email 
 
 - 3: Select The 10 Basic HTML Tags Lesson
 	- ![typing.io](images/typingio_lesson_01.jpg)
+
+- 4: Practice Typing The Code To Learn And Memorize The 10 Basic HTML Tags
+ - ![typing.io](images/typingio_demo.gif)
 
 
 ## Creating Clean Code
